@@ -41,8 +41,4 @@ yarn-error.log*
 next-env.d.ts
 
 # IDEA
-/.idea/.gitignore
-/.idea/meta-control.iml
-/.idea/modules.xml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/vcs.xml
+/.idea/**
